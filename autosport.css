@@ -1,0 +1,191 @@
+.stylinglogo{
+    width:160px;
+    height:70px;
+}
+#go{
+    background-color:white;
+    color:black;
+    border:0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#go:hover{
+    color:red;
+}
+#goo1{
+        background-color:red;
+        color:white;
+        border: 0px;
+        padding:5px 10px;
+        border-radius: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        margin-left: 20px;
+}
+#goo1:hover{
+    background-color: grey;
+    color: red;
+}
+.bgimg{
+    background-image: url("https://res.cloudinary.com/digdliiab/image/upload/v1669355913/BMW-MH8000-Manhart_yutn55.jpg");
+    background-size: cover;
+    height: 90vh;
+}
+.head1{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.paraline{
+    color: #f5f7fa;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+}
+.buttonst{
+    color: white;
+    background-color: #c90202;
+    width: 230px;
+    height:45px;
+    border-width:0px;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.bgcolor2{
+    background-color: #f9fbfe;
+}
+.head2{
+    color:rgb(188, 36, 36);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+}
+.para2{
+    color: #5a7184;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.carding{
+text-align: center;
+background-color: white;
+border-style:solid;
+border-width: 1px;
+border-color:#e5eaf4;
+border-radius: 16px;
+}
+.chead{
+    color:#323f4b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold ;
+    font-size:22px ;
+
+}
+.cimage{
+    width:87px;
+    height:90px;
+    padding:5px;
+}
+.cpara{
+    color:#7b8794;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 16px;
+}
+.offers{
+    color:#323f4b ;
+    font-style: italic;
+    font-weight: 600;
+}
+.bgimg3{
+    background-color: white;
+}
+.explorehead{
+    color:#183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:700;
+    font-size: 28px;
+}
+.explorecards{
+    border-radius: 16px;
+}
+.exploreclass{
+    border-radius: 16px;
+}
+.cardhead4{
+    color:#323f4b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 24px;
+}
+.explorelink{
+    color:#c90202;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+.explorecards:hover{
+    transform: scale(1.08);
+}
+.paybgimg{
+    background-color: white;
+}
+.paymenting{
+    width:350px;
+}
+.payhead{
+    color:#183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:700;
+    font-size: 25px;
+}
+.paypara{
+    color:#183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:lighter;
+    font-size: 16px;
+}
+.cstbutton{
+        color: white;
+        background-color: #c90202;
+        width: 130px;
+        height:45px;
+        border-width:0px;
+        border-radius: 8px;
+        margin-right:10px;
+    
+}
+.cstbutton:hover{
+    color: #f5f7fa;
+    transform:scale(1.08);
+}
+.paycardimg{
+    width:50px;
+    height:50px;
+    margin-right: 28px;
+}
+#contact{
+padding-bottom: 4rem;
+background-color: grey;
+}
+.socialicons{
+   font-size: 40px;
+   
+    cursor:pointer;
+  
+}
+#icenter1{
+    text-align: center;
+}
+.fa-brands:hover{
+    color: rgb(234, 30, 30);
+    transform: scale(1.08);
+}
+.fa-brands{
+    color:white;
+}
+.fa-facebook,.fa-instagram,.fa-linkedin,.fa-square-twitter{
+    margin: 40px;
+}
